@@ -4,6 +4,9 @@ Unlock the Power of Data for Customer Analytics 📈
 
 Welcome to the Customer Lifetime Value (CLTV) prediction project! Dive into the world of customer analytics and harness the predictive capabilities of Decision Trees and Random Forests to forecast the future value of your customers.
 
+# link of the dataset 
+https://www.kaggle.com/datasets/gauravduttakiit/predict-cltv-of-a-customer?resource=download
+
 # Project Overview
 
 In this repository, you'll embark on an exciting journey to:
